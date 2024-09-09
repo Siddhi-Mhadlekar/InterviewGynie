@@ -21,8 +21,7 @@ The Conversational Interview Bot simulates an interview scenario where users can
 ## Setup Instructions
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/conversational-interview-bot.git
-    cd conversational-interview-bot
+    git clone https://github.com/Siddhi-Mhadlekar/InterviewGynie.git
     ```
 
 2. **Install dependencies**:
